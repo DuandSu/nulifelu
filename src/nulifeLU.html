@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <title>NuLife Look-Up</title>
+    <link rel="stylesheet" href="nulifeLU.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tangerine&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="container">
+        <!-- IDs are a way for you to identify a specific element in your HTML code. Works well for formatting a specific section of your page. -->
+        <div id="header">
+            <h1>NuLife Nutrition YYC</h1>
+        </div>
+        <div id="content">
+            <div id="nav">
+                <ul>
+                    <a href="https://nulifenutritionyyc.ca/">
+                        <li class="siteLinks">Home</li><!-- Classes are a way for you to identify specific elements in your HTML code. The major difference between an ID and a class is that an ID refers to only one element whereas a class can refer to multiple. -->
+                    </a>
+                </ul>
+            </div>
+            <br><br>
+            <div id="main">
+                <h3>The Look-Up App will look-up cannabis products and where to get them.</h3>
+            </div>
+            <div id="nulifelu_container"></div>
+        </div>
+    </div>
+
+    <!-- Load React. -->
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+
+    <!-- Load our React component. -->
+    <script type="module" src=".\nulifelu\nulife_lookup.js"></script>
+</body>
+</html>

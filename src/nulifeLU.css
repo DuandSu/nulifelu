@@ -1,0 +1,73 @@
+body {
+    background-color: #00272c;
+    background-size: cover;
+    font-family: sans-serif, calibri, Arial ;
+}
+
+a {
+    text-decoration: none;
+    /* Removes underline from links. */
+    color: black;
+}
+
+#container {
+    /* To style an element with a specific ID, you start the selector with a '#'. */
+    background-color: white;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background-color: white;
+    color: black;
+    font-family: 'Tangerine', cursive;
+    font-size: 125%;
+    text-align: left;
+    padding: 50px;
+}
+
+#content {
+    padding: 10px;
+}
+
+#nav {
+    /* width: 20%; */
+    /* float: left; */
+    /* float allows an element to float to the side, top, or bottom of its container. Here, the div element with the 'nav' ID will float to the left side of the div section with the 'content' ID. */
+}
+
+#nav ul {
+    /* If you want to style a common element differently in a specific ID, write the ID selector before that common element. */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     /* Removes bullets from lists. */
+
+}
+
+#nav li {
+    float: left;
+    padding: 0px;
+    padding-right: 20px;
+}
+
+.siteLinks {
+    /* To style an element with a specific class, you start the selector with a '.'. */
+    font-weight: bold;
+}
+
+.siteLinks:hover {
+    /* The hover selector can be used to change the format of elements that have the mouse hovering above them. */
+    background-color: lightgray;
+}
+
+table {
+    width:100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: left;
+}
