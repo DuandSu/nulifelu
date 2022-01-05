@@ -1,4 +1,4 @@
-function SearchBox({searchChange}) {
+function ProdSearchBox({searchChange}) {
     return (
         <input 
             type="search" 
@@ -8,4 +8,4 @@ function SearchBox({searchChange}) {
     );
 }
 
-export default SearchBox;
+export default ProdSearchBox;
