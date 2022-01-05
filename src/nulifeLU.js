@@ -28,18 +28,21 @@ class NulifeLU extends Component {
       return comprod.prodName.toLowerCase().includes(this.state.searchProd1.toLowerCase());
     })
 
-    const filteredComProd2 = this.state.comprod.filter(comprod => {
-      return comprod.prodName.toLowerCase().includes(this.state.searchProd2.toLowerCase());
-    })
+    let filteredComProdFinal = [...filteredComProd1];
 
-    // loop over filteredComProd2, add the elements of filteredComProd2 if it doesn't exist in filteredComProd1
-    const filteredComProdFinal = filteredComProd2.reduce((acc, eachArr2Elem) => {
-      if (filteredComProd1.findIndex((eachArr1Elem) => eachArr1Elem.compName === eachArr2Elem.compName && eachArr1Elem.prodName === eachArr2Elem.prodName)  === -1) {
-          acc.push(eachArr2Elem)
-      }
-      return acc
-    }, [...filteredComProd1]); // initialize the new Array with the contents of array1
+    if (this.state.searchProd2 !== '') {
+        const filteredComProd2 = this.state.comprod.filter(comprod => {
+          return comprod.prodName.toLowerCase().includes(this.state.searchProd2.toLowerCase());
+        })
 
+        // loop over filteredComProd2, add the elements of filteredComProd2 if it doesn't exist in filteredComProd1
+        filteredComProdFinal = filteredComProd2.reduce((acc, eachArr2Elem) => {
+          if (filteredComProd1.findIndex((eachArr1Elem) => eachArr1Elem.compName === eachArr2Elem.compName && eachArr1Elem.prodName === eachArr2Elem.prodName)  === -1) {
+              acc.push(eachArr2Elem)
+          }
+          return acc
+        }, [...filteredComProd1]); // initialize the new Array with the contents of array1
+    }
     return (
       <div id="container">
         <div id="header">
