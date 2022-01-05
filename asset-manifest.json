@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DuandSu/nulifelu/static/css/main.ff4532d0.css",
-    "main.js": "/DuandSu/nulifelu/static/js/main.47f29780.js",
-    "static/js/787.1c8cea35.chunk.js": "/DuandSu/nulifelu/static/js/787.1c8cea35.chunk.js",
-    "index.html": "/DuandSu/nulifelu/index.html",
-    "main.ff4532d0.css.map": "/DuandSu/nulifelu/static/css/main.ff4532d0.css.map",
-    "main.47f29780.js.map": "/DuandSu/nulifelu/static/js/main.47f29780.js.map",
-    "787.1c8cea35.chunk.js.map": "/DuandSu/nulifelu/static/js/787.1c8cea35.chunk.js.map"
+    "main.css": "/nulifelu/static/css/main.ff4532d0.css",
+    "main.js": "/nulifelu/static/js/main.0c0b9096.js",
+    "static/js/787.1c8cea35.chunk.js": "/nulifelu/static/js/787.1c8cea35.chunk.js",
+    "index.html": "/nulifelu/index.html",
+    "main.ff4532d0.css.map": "/nulifelu/static/css/main.ff4532d0.css.map",
+    "main.0c0b9096.js.map": "/nulifelu/static/js/main.0c0b9096.js.map",
+    "787.1c8cea35.chunk.js.map": "/nulifelu/static/js/787.1c8cea35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff4532d0.css",
-    "static/js/main.47f29780.js"
+    "static/js/main.0c0b9096.js"
   ]
 }
