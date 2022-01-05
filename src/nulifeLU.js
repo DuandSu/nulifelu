@@ -32,7 +32,7 @@ class NulifeLU extends Component {
       return comprod.prodName.toLowerCase().includes(this.state.searchProd2.toLowerCase());
     })
 
-    // loop over arr2, add the elements of array2 if it doesn't exist in array1
+    // loop over filteredComProd2, add the elements of filteredComProd2 if it doesn't exist in filteredComProd1
     const filteredComProdFinal = filteredComProd2.reduce((acc, eachArr2Elem) => {
       if (filteredComProd1.findIndex((eachArr1Elem) => eachArr1Elem.compName === eachArr2Elem.compName && eachArr1Elem.prodName === eachArr2Elem.prodName)  === -1) {
           acc.push(eachArr2Elem)
@@ -68,7 +68,16 @@ class NulifeLU extends Component {
                         <th>Product</th>
                       </tr>
                   </thead>  
-                  <ItemList comprod={filteredComProdFinal}/>
+                  <ItemList comprod={filteredComProdFinal.sort(
+                      function(a,b) 
+                        {
+                          let x = a.compName.concat(a.prodName).toLowerCase();
+                          let y = b.compName.concat(b.prodName).toLowerCase();
+                          if (x < y) {return -1;}
+                          if (x > y) {return 1;}
+                          return 0;
+                        }
+                    )}/>
               </table>
         </div>
       </div>
