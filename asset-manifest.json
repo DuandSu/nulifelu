@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nulifelu/static/css/main.ff4532d0.css",
-    "main.js": "/nulifelu/static/js/main.1ea1011c.js",
+    "main.js": "/nulifelu/static/js/main.96463272.js",
     "static/js/787.1c8cea35.chunk.js": "/nulifelu/static/js/787.1c8cea35.chunk.js",
     "index.html": "/nulifelu/index.html",
     "main.ff4532d0.css.map": "/nulifelu/static/css/main.ff4532d0.css.map",
-    "main.1ea1011c.js.map": "/nulifelu/static/js/main.1ea1011c.js.map",
+    "main.96463272.js.map": "/nulifelu/static/js/main.96463272.js.map",
     "787.1c8cea35.chunk.js.map": "/nulifelu/static/js/787.1c8cea35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff4532d0.css",
-    "static/js/main.1ea1011c.js"
+    "static/js/main.96463272.js"
   ]
 }
