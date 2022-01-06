@@ -6,7 +6,7 @@ function Item({compName, compWebSite, prodName}) {
   return (
     <tr className="item">
       <td>{compName}</td>
-      <td>{compWebSite}</td>
+      <td><span><a href={`${compWebSite}`} target="_blank">{`${compWebSite}`}</a></span></td>
       <td>{prodName}</td>
     </tr>
   );
