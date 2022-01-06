@@ -70,57 +70,57 @@ export const comprod = [
     prodName: 'Terpenes',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Oils',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Softgels & Capsules',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Oral Spray',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Edibles',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Concentrates',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Vapes',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Vapes',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Dried Flower',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Preroll',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Terpenes',
   },
   {
-    compName: 'Aurora Medical',
+    compName: 'Aurora Medical (Aurora, CanniMed, MedReleaf, Whistler)',
     compWebSite: 'https://www.auroramedical.com/collections/all/',
     prodName: 'Accessories',
   },
@@ -463,6 +463,516 @@ export const comprod = [
     compName: 'Emerald Health',
     compWebSite: 'https://www.emeraldhealth.ca/',
     prodName: 'Preroll',
+  },
+  {
+    compName: 'Estoria Medical Cannabis',
+    compWebSite: 'https://www.estoramedical.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Estoria Medical Cannabis',
+    compWebSite: 'https://www.estoramedical.com/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Estoria Medical Cannabis',
+    compWebSite: 'https://www.estoramedical.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Green Relief',
+    compWebSite: 'https://www.greenrelief.ca/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Green Relief',
+    compWebSite: 'https://www.greenrelief.ca/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Green Relief',
+    compWebSite: 'https://www.greenrelief.ca/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Green Relief',
+    compWebSite: 'https://www.greenrelief.ca/',
+    prodName: 'Terpenes',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Carrier Oil Type',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Decarb Powder',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Concentrates',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Drinks',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Hexo (The Hydropothecary)',
+    compWebSite: 'https://www.thehydropothecary.com/',
+    prodName: 'Preroll',
+  },
+  {
+    compName: 'Maricann Inc.',
+    compWebSite: 'https://www.maricann.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Maricann Inc.',
+    compWebSite: 'https://www.maricann.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Maricann Inc.',
+    compWebSite: 'https://www.maricann.com/',
+    prodName: 'Fresh Flower',
+  },
+  {
+    compName: 'Maricann Inc.',
+    compWebSite: 'https://www.maricann.com/',
+    prodName: 'Seeds',
+  },
+  {
+    compName: 'Maricann Inc.',
+    compWebSite: 'https://www.maricann.com/',
+    prodName: 'Clones',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Edibles',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Drinks',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Powders',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Topicals',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Fresh Flower',
+  },
+  {
+    compName: 'Organigram',
+    compWebSite: 'https://www.organigram.ca/',
+    prodName: 'Seeds',
+  },
+  {
+    compName: 'Peace Naturals Project Inc.',
+    compWebSite: 'https://www.peacenaturals.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Peace Naturals Project Inc.',
+    compWebSite: 'https://www.peacenaturals.com/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Peace Naturals Project Inc.',
+    compWebSite: 'https://www.peacenaturals.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Peace Naturals Project Inc.',
+    compWebSite: 'https://www.peacenaturals.com/',
+    prodName: 'Terpenes',
+  },
+  {
+    compName: 'Redecan',
+    compWebSite: 'https://www.redecan.ca/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Redecan',
+    compWebSite: 'https://www.redecan.ca/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Redecan',
+    compWebSite: 'https://www.redecan.ca/',
+    prodName: 'Concentrates',
+  },
+  {
+    compName: 'Redecan',
+    compWebSite: 'https://www.redecan.ca/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Redecan',
+    compWebSite: 'https://www.redecan.ca/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Redecan',
+    compWebSite: 'https://www.redecan.ca/',
+    prodName: 'Fresh Flower',
+  },
+  {
+    compName: 'Redecan',
+    compWebSite: 'https://www.redecan.ca/',
+    prodName: 'Preroll',
+  },
+  {
+    compName: 'Spectrum (Canopy Growth)',
+    compWebSite: 'https://www.spectrumtherapeutics.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Spectrum (Canopy Growth)',
+    compWebSite: 'https://www.spectrumtherapeutics.com/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Spectrum (Canopy Growth)',
+    compWebSite: 'https://www.spectrumtherapeutics.com/',
+    prodName: 'Edibles',
+  },
+  {
+    compName: 'Spectrum (Canopy Growth)',
+    compWebSite: 'https://www.spectrumtherapeutics.com/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Spectrum (Canopy Growth)',
+    compWebSite: 'https://www.spectrumtherapeutics.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Oral Spray',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Concentrates',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Topicals',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Terpenes',
+  },
+  {
+    compName: 'Starseed',
+    compWebSite: 'https://www.starseed.com/',
+    prodName: 'Accessories',
+  },
+  {
+    compName: 'THC Biomed Ltd.',
+    compWebSite: 'https://www.thcbiomed.com/',
+    prodName: 'Edibles',
+  },
+  {
+    compName: 'THC Biomed Ltd.',
+    compWebSite: 'https://www.thcbiomed.com/',
+    prodName: 'Drinks',
+  },
+  {
+    compName: 'THC Biomed Ltd.',
+    compWebSite: 'https://www.thcbiomed.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'THC Biomed Ltd.',
+    compWebSite: 'https://www.thcbiomed.com/',
+    prodName: 'Preroll',
+  },
+  {
+    compName: 'THC Biomed Ltd.',
+    compWebSite: 'https://www.thcbiomed.com/',
+    prodName: 'Clones',
+  },
+  {
+    compName: 'THC Biomed Ltd.',
+    compWebSite: 'https://www.thcbiomed.com/',
+    prodName: 'Accessories',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Decarb Powder',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Edibles',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Concentrates',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Drinks',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Powders',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Preroll',
+  },
+  {
+    compName: 'The Green Organic Dutchman Ltd.',
+    compWebSite: 'https://www.tgod.ca/',
+    prodName: 'Terpenes',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Edibles',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Topicals',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Fresh Flower',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Preroll',
+  },
+  {
+    compName: 'Tilray (Partnered with Aphria)',
+    compWebSite: 'https://www.aphria.ca/',
+    prodName: 'Seeds',
+  },
+  {
+    compName: 'Whistler Medical Marijuana Corp. (Partnered with Auroral Medical Corp.)',
+    compWebSite: 'https://www.auroramedical.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Whistler Medical Marijuana Corp. (Partnered with Auroral Medical Corp.)',
+    compWebSite: 'https://www.auroramedical.com/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Zenabis Ltd. (Partnered with Hexo)',
+    compWebSite: 'https://www.hexo.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'abba medix',
+    compWebSite: 'https://www.abbamedix.com/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'abba medix',
+    compWebSite: 'https://www.abbamedix.com/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Oils',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Carrier Oil Type',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Softgels & Capsules',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Patches',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Oral Disolving Wafers',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Edibles',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Concentrates',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Drinks',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Powders',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Suppositories',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Topicals',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Cosmetics',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Vapes',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Dried Flower',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Preroll',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Seeds',
+  },
+  {
+    compName: 'Shelter Market',
+    compWebSite: 'https://www.sheltermarket.ca/',
+    prodName: 'Accessories',
   },
 
 ];
