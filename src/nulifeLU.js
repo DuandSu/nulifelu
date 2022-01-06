@@ -58,7 +58,7 @@ class NulifeLU extends Component {
                   </ul>
               </div>
               <br></br>
-              <h3>The Look-Up App will look-up cannabis products and where to get them. Start typing in the search box.</h3>
+              <h3>Type in the Search Products box to look-up cannabis products and who has them.</h3>
               <br></br>
               <ProdSearchBox searchChange={this.onProd1SearchChange}/>
               <ProdSearchBox searchChange={this.onProd2SearchChange}/>

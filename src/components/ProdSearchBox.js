@@ -1,3 +1,5 @@
+import './ProdSearchBox.css';
+
 function ProdSearchBox({searchChange}) {
     return (
         <input 
